@@ -1,1 +1,2 @@
-# person
+# Testing golang
+# person package
